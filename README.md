@@ -45,34 +45,21 @@ The materials are relevant for:
 
 ### Frameworks
 
-- AI Use Case Prioritization
-- Human-in-the-Loop Governance
+- [AI Use Case Prioritization Framework](frameworks/ai-use-case-prioritization.md)
+- [Human-in-the-Loop Governance Framework](frameworks/human-in-the-loop-governance.md)
 
 ### Workflows
 
-- Customer Insight Synthesis
-- Campaign Content Workflow
+- [Customer Insight Synthesis Workflow](workflows/customer-insight-synthesis.md)
+- [AI-Supported Campaign Content Workflow](workflows/campaign-content-workflow.md)
 
 ### Template
 
-- AI Workflow Assessment Template
+- [AI Workflow Assessment Template](templates/ai-workflow-assessment-template.md)
 
 ### Example
 
-- Fictional Enterprise AI Workflow
-
-## Focus Areas
-
-The repository focuses on practical applications such as:
-
-- synthesizing customer and market insight,
-- developing structured campaign briefs,
-- supporting content and messaging development,
-- improving campaign quality assurance,
-- identifying knowledge gaps,
-- accelerating research and preparation,
-- standardizing repeatable marketing processes,
-- supporting human decision-making.
+- [Fictional Enterprise AI Workflow Example](examples/fictional-enterprise-ai-workflow.md)
 
 ## AI Use Case Principles
 
